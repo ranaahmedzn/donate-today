@@ -136,3 +136,26 @@ header {
 .education {
     background-color: #FFF4D6;
 }
+
+/*--section 3 start here--*/
+.section3 {
+    padding:5% 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.section-info {
+    width: 40%;
+}
+.section-image img {
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+
+}
+
+/*--section4 start here--*/
+.section4 {
+    padding:5% 10%;
+    display: flex;
+    justify-content: space-between;
+}
