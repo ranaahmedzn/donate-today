@@ -159,3 +159,48 @@ header {
     display: flex;
     justify-content: space-between;
 }
+
+/*--section5 start here--*/
+.subscribe-section {
+    text-align: center;
+    width: 100%;
+    padding: 8% 20%;
+}
+.subscribe-section-footer {
+    padding: 10%;
+    margin-top: 40px;
+    background-color: #ff59591f;
+    font-size: 0;
+}
+#email {
+    width: 50%;
+    padding: 16px;
+    background-color: #D9D9D9;
+    border: none;
+    border-radius: 7px 0 0 7px;
+}
+#subscribe-btn {
+    padding: 16px;
+    background-color: #FF5959;
+    border: none;
+    border-radius:  0 7px 7px 0;
+}
+input:focus {
+    outline: none;
+}
+
+/*--footer start here--*/
+footer {
+    width: 100%;
+    background-color: #0B0D17;
+    color: #FF5959;
+    text-align: center;
+    padding: 40px 0;
+}
+.footer h6 {
+    font-size: 30px;
+    line-height: 80px;
+}
+.footer p {
+    color:  #D9D9D9;
+}
